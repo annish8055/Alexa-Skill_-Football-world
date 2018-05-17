@@ -11,7 +11,9 @@ Note:The music used in this skill are open source music collected from different
 
 # Example Phrases
 Alexa open football world
+
 Alexa ask football world to play music
+
 Alexa ask football world for a fun fact
 
 # Category
