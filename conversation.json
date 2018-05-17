@@ -1,0 +1,85 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "football world",
+            "intents": [
+                {
+                    "name": "somethingElse",
+                    "slots": [],
+                    "samples": [
+                        "lion",
+                        "dog",
+                        "tell me about god",
+                        "tell me something",
+                        "yaba daba do",
+                        "hi",
+                        "hey",
+                        "pineapple",
+                        "apple",
+                        "laptop",
+                        "can i see it",
+                        "it looks great",
+                        "wow",
+                        "hey ehat is this",
+                        "lets go some were",
+                        "what are you doing",
+                        "ha ha ha",
+                        "la la la"
+                    ]
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "history",
+                    "slots": [],
+                    "samples": [
+                        "football history",
+                        "history"
+                    ]
+                },
+                {
+                    "name": "funFact",
+                    "slots": [],
+                    "samples": [
+                        "facts",
+                        "football fun fact",
+                        "football fun",
+                        "football fact",
+                        "fun",
+                        "fun fact",
+                        "fact"
+                    ]
+                },
+                {
+                    "name": "music",
+                    "slots": [],
+                    "samples": [
+                        "music",
+                        "set the mood",
+                        "football music",
+                        "play music"
+                    ]
+                },
+                {
+                    "name": "AMAZON.PauseIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ResumeIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}

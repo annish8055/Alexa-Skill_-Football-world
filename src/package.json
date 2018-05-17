@@ -1,0 +1,29 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Alexa skill to audio files (Football World)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annish8055/Alexa-Skill_-Football-world.git"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "alexa",
+    "music",
+    "skill",
+    "alexa",
+    "nodejs",
+    "skill"
+  ],
+  "author": "Annish Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annish8055/Alexa-Skill_-Football-world/issues"
+  },
+  "homepage": "https://github.com/annish8055/Alexa-Skill_-Football-world#readme"
+}

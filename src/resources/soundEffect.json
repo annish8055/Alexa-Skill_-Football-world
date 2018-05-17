@@ -1,0 +1,12 @@
+{
+    "sound":[
+        "https://s3.amazonaws.com/footballcheers/cheer1.mp3",
+        "https://s3.amazonaws.com/footballcheers/cheer2.mp3",
+        "https://s3.amazonaws.com/footballcheers/cheer3.mp3",
+        "https://s3.amazonaws.com/footballcheers/cheer4.mp3",
+        "https://s3.amazonaws.com/footballcheers/cheer5.mp3",
+        "https://s3.amazonaws.com/footballcheers/cheer6.mp3",
+        "https://s3.amazonaws.com/footballcheers/cheer7.mp3"
+        
+    ]
+}

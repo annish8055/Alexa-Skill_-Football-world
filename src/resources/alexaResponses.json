@@ -1,0 +1,9 @@
+{
+    "responses":{
+        "welcome":"welcome to football world, select from <break time=\"0.5s\"/> football music <break time=\"0.5s\"/>which sets the mood for the game <break time=\"0.5s\"/> or fun fact <break time=\"0.5s\"/>or football history ",
+        "help":"hi I am Football world. I can tell you football fun facts , play football music which will put you in the mood of the game or i can tell you the history of football. please select from fun facts, music or history",
+        "somethingElse":"sorry i was not able to understand you. please select from fun facts, music or history.",
+        "good_bye":"thanks for using football world. keep the ball rolling.",
+        "reprompt":"<speak>please select from music, funFact or history</speak>"
+    }
+}
